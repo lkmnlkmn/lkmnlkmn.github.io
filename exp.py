@@ -1,7 +1,5 @@
 import numpy as np
 import matplotlib.pyplot as plt
-
-
 t = np.linspace(-2.5, 2.5, 1000)
 ft = np.exp(-3/4*t)
 plt.plot(t, ft)
