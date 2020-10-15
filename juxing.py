@@ -1,5 +1,6 @@
 import numpy as np
 import matplotlib.pyplot as plt
+
 def rect_wave(x, c, c0):      
      if x >= (c+c0):
           r = 0.0
