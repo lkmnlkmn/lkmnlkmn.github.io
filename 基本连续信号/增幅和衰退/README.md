@@ -1,4 +1,4 @@
-# exp 基本信号显示
+# 复指数 基本信号显示
 
 ## 目的
 通过编写基本程序，实现信号的显示。
@@ -28,5 +28,5 @@ plt.show()
 根据上述代码，最终显示的图形如下所示。
 <center>
   <img src="https://github.com/lkmnlkmn/lkmnlkmn.github.io/blob/main/%E5%9F%BA%E6%9C%AC%E8%BF%9E%E7%BB%AD%E4%BF%A1%E5%8F%B7/%E5%A2%9E%E5%B9%85%E5%92%8C%E8%A1%B0%E9%80%80/%E5%9B%BE%E7%89%875.png" > 
-  图exp 
+  图复指数 
 </center>
